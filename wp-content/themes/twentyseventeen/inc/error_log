@@ -1,0 +1,8 @@
+[06-Dec-2018 09:40:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 14:11:33 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[07-Dec-2018 00:36:04 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[07-Dec-2018 05:34:03 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[22-May-2019 09:12:38 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 18:07:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[11-Jun-2019 23:16:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[11-Jun-2019 23:59:29 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

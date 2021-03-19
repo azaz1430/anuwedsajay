@@ -1,0 +1,4 @@
+[18-Aug-2018 20:10:16 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[19-Aug-2018 00:08:54 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Aug-2018 06:49:53 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[29-Aug-2018 15:08:31 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/anuwedsajay/public_html/wp-content/themes/twentyseventeen/footer.php on line 22

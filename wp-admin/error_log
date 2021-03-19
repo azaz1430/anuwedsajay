@@ -1,0 +1,62 @@
+[10-Jul-2018 14:37:00 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[10-Jul-2018 14:45:18 UTC] PHP Warning:  Missing argument 2 for weblog_reset_db_setting() in /home/apnaextension/anusha.apnaextension.com/wp-content/themes/weblog/acmethemes/customizer/options/options-reset.php on line 25
+[15-Apr-2019 08:15:39 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 1
+                 made by include('wp-admin/edit-form-blocks.php'), do_action('enqueue_block_editor_assets'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, NF_FormBlock->nf_form_block, NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
+[15-Apr-2019 08:15:39 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 2
+                 made by include('wp-admin/edit-form-blocks.php'), do_action('enqueue_block_editor_assets'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, NF_FormBlock->nf_form_block, NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
+[15-Apr-2019 08:15:41 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 1
+                 made by include('wp-admin/edit-form-blocks.php'), the_block_editor_meta_boxes, do_meta_boxes, call_user_func, NF_Admin_Metaboxes_AppendAForm->render_metabox, Ninja_Forms::template, include('/plugins/ninja-forms/includes/Templates/admin-metabox-append-a-form.html.php'), NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
+[15-Apr-2019 08:15:41 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 2
+                 made by include('wp-admin/edit-form-blocks.php'), the_block_editor_meta_boxes, do_meta_boxes, call_user_func, NF_Admin_Metaboxes_AppendAForm->render_metabox, Ninja_Forms::template, include('/plugins/ninja-forms/includes/Templates/admin-metabox-append-a-form.html.php'), NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
+[15-Apr-2019 08:18:33 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 1
+                 made by include('wp-admin/edit-form-blocks.php'), do_action('enqueue_block_editor_assets'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, NF_FormBlock->nf_form_block, NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
+[15-Apr-2019 08:18:33 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 2
+                 made by include('wp-admin/edit-form-blocks.php'), do_action('enqueue_block_editor_assets'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, NF_FormBlock->nf_form_block, NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
+[15-Apr-2019 08:18:35 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 1
+                 made by include('wp-admin/edit-form-blocks.php'), the_block_editor_meta_boxes, do_meta_boxes, call_user_func, NF_Admin_Metaboxes_AppendAForm->render_metabox, Ninja_Forms::template, include('/plugins/ninja-forms/includes/Templates/admin-metabox-append-a-form.html.php'), NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
+[15-Apr-2019 08:18:35 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 2
+                 made by include('wp-admin/edit-form-blocks.php'), the_block_editor_meta_boxes, do_meta_boxes, call_user_func, NF_Admin_Metaboxes_AppendAForm->render_metabox, Ninja_Forms::template, include('/plugins/ninja-forms/includes/Templates/admin-metabox-append-a-form.html.php'), NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
+[15-Apr-2019 08:18:58 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 1
+                 made by include('wp-admin/edit-form-blocks.php'), do_action('enqueue_block_editor_assets'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, NF_FormBlock->nf_form_block, NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
+[15-Apr-2019 08:18:58 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 2
+                 made by include('wp-admin/edit-form-blocks.php'), do_action('enqueue_block_editor_assets'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, NF_FormBlock->nf_form_block, NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
+[15-Apr-2019 08:18:58 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 1
+                 made by include('wp-admin/edit-form-blocks.php'), the_block_editor_meta_boxes, do_meta_boxes, call_user_func, NF_Admin_Metaboxes_AppendAForm->render_metabox, Ninja_Forms::template, include('/plugins/ninja-forms/includes/Templates/admin-metabox-append-a-form.html.php'), NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
+[15-Apr-2019 08:18:58 UTC] WordPress database error Unknown column 'form_title' in 'field list' for query 
+                SELECT `title`, `created_at`, `form_title`, `default_label_pos`, `show_title`, `clear_complete`, `hide_complete`, `logged_in`, `seq_num`
+                FROM   `wp_nf3_forms`
+                WHERE `id` = 2
+                 made by include('wp-admin/edit-form-blocks.php'), the_block_editor_meta_boxes, do_meta_boxes, call_user_func, NF_Admin_Metaboxes_AppendAForm->render_metabox, Ninja_Forms::template, include('/plugins/ninja-forms/includes/Templates/admin-metabox-append-a-form.html.php'), NF_Abstracts_Model->get_setting, NF_Abstracts_Model->get_settings
